@@ -1,0 +1,16 @@
+.salary-btn{
+    
+    text-align: center;
+    background-color: rgb(248, 8, 140);
+    width: 150px; 
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.em-cart h4 {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 30px;
+}

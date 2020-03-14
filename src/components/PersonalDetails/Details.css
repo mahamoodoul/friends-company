@@ -1,0 +1,26 @@
+.employee {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.employee-name{
+    color: blue;
+    font-weight: 400;
+
+}
+.main-btn{
+    background-color: rgb(104, 90, 226);
+    width: 150px;
+    
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.employee img {
+    width: 400px;
+    height: 250px;
+    padding-right: 20px;
+}
